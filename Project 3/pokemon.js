@@ -19,11 +19,6 @@ form.addEventListener("submit", (event) => {
       div.appendChild(image);
       root.appendChild(div);
 
-      // another image option:
-      //image.src = newPokemon.sprites.front_default;
-      // other ideas:
-      // div.appendChild(pokemonNameLabel);
-      // div.appendChild(pokemonAttack);
-      // div.appendChild(pokemonHealth);
+     
   });
 });
